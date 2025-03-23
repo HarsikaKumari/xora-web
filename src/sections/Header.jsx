@@ -79,9 +79,9 @@ const Header = () => {
                   </LinkScroll>
                 </li>
                 <li className="nav-li">
-                  <NavLink title="faq" />
+                  <NavLink title="Faq" />
                   <div className="dot" />
-                  <NavLink title="download" />
+                  <NavLink title="Download" />
                 </li>
               </ul>
             </nav>
