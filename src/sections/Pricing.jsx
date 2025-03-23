@@ -10,7 +10,7 @@ const Pricing = () => {
 
   return (
     <section>
-      <Element className="pricing">
+      <Element className="Pricing">
         <div className="container">
           <div
             className="max-w-980 pricing-head_before relative
